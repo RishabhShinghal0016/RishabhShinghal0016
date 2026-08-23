@@ -1,24 +1,76 @@
-# 💫 About Me:
-Final-year B.Tech (Information Technology) student and full-stack developer who has shipped 5+ live production-style applications across four internships — spanning MERN development, RESTful APIs, and AI-integrated features. Built CRIS, an AI-powered career-readiness platform used for resume scoring and mock interviews, and MyTrader, a real-time investing dashboard on live market-data APIs. Strong foundation in Data Structures, OOP, and database design, with Agile experience and multiple hackathon wins. Looking to bring that same build-and-ship instinct to a Software Developer role on a product team.
+<h1 align="center">Hi 👋, I'm Rishabh Shinghal</h1>
+<h3 align="center">Software Developer | Full Stack (MERN) Developer</h3>
 
+<p align="center">
+Final-year B.Tech (IT) student who has shipped 5+ production-style apps across four internships —
+spanning MERN development, RESTful APIs, and AI-integrated features.
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishabh-shinghal-30429526a/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rishabh Shinghal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishabhshngl121@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=RishabhShinghal0016&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=RishabhShinghal0016&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RishabhShinghal0016&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RishabhShinghal0016&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+📍 Bareilly, Uttar Pradesh, India &nbsp;|&nbsp;
+✉️ rishabhshngl121@gmail.com &nbsp;|&nbsp;
+<a href="https://linkedin.com/in/rishabh-shinghal-30429526a">LinkedIn</a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=RishabhShinghal0016&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Currently
+
+- 🔭 Building **Project FORESIGHT** — an AI-powered demand forecasting & inventory intelligence platform (Python, pandas, scikit-learn, FastAPI, Streamlit) at my Data Science internship with **Zidio Technology**
+- 🌱 Learning **Salesforce Development**, after completing Salesforce Administrator training
+- 👨‍💻 Open to **Software Developer / Full Stack Developer** roles in Noida & Delhi NCR
+- 🏆 1st Position — Code Relay, Techvyom 2025 | Certified member, SRMS Toastmasters International
+
+---
+
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| **[CRIS – Career Readiness Intelligence System](https://github.com/RishabhShinghal0016/CRIS)** | AI-powered career-readiness platform with resume scoring, mock interviews, and a live leaderboard | React, Node.js, Express, MongoDB, JWT, Gemini API |
+| **[MyTrader (TradeMyWay)](https://github.com/RishabhShinghal0016/MyTrader)** | Real-time investing dashboard with live market data, paper trading & strategy backtesting | JavaScript, Finnhub API, Firebase, Firestore |
+| **[HariSeva Foundation Management System](https://github.com/RishabhShinghal0016/HSFMS)** | NGO management platform tracking donations, volunteers & charity drives | MERN Stack |
+| **[JobTrackr](https://github.com/RishabhShinghal0016/JobTrackr)** | Job application tracker with ATS resume analyzer, JD-match scoring & AI cover-letter generation | MERN, JWT, OpenAI API |
+| **[Sign_Speak](https://github.com/RishabhShinghal0016/Sign_Speak)** | Real-time ASL-to-text/speech translation app for accessibility | JavaScript, MediaPipe Hands, Web Speech API |
+| **[Rakshak](https://github.com/RishabhShinghal0016/Rakshak)** | Food distribution platform connecting donors & recipients during emergencies | JavaScript |
+
+---
+
+### 🌱 Beyond Code
+
+Founder of **HariSeva Foundation**, a community-run NGO in Bareilly leading food drives, school-kit distributions, and relief campaigns for underprivileged communities.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RishabhShinghal0016&show_icons=true&theme=default&hide_border=true" alt="Rishabh's GitHub stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RishabhShinghal0016&hide_border=true" alt="Rishabh's GitHub streak" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhShinghal0016&layout=compact&hide_border=true" alt="Top languages" height="150"/>
+</p>
+
+---
+
+<p align="center">⭐️ From <a href="https://github.com/RishabhShinghal0016">RishabhShinghal0016</a></p>
+
