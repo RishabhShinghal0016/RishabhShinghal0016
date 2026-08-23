@@ -59,17 +59,5 @@ Founder of **HariSeva Foundation**, a community-run NGO in Bareilly leading food
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RishabhShinghal0016&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Rishabh's GitHub stats" height="165"/>
-<img src="https://streak-stats.demolab.com?user=RishabhShinghal0016&hide_border=true" alt="Rishabh's GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhShinghal0016&layout=compact&hide_border=true" alt="Top languages" height="150"/>
-</p>
-
----
-
 <p align="center">⭐️ From <a href="https://github.com/RishabhShinghal0016">RishabhShinghal0016</a></p>
+
